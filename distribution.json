@@ -12,7 +12,7 @@
       "name": "CPServer (Minecraft 1.21.11)",
       "description": "CPServer Running Minecraft 1.21.11 (Fabric v0.19.2)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "5.4.1",
+      "version": "1.0.0",
       "address": "churoo.kro.kr",
       "minecraftVersion": "1.21.11",
       "discord": {
@@ -382,28 +382,6 @@
           }
         },
         {
-          "id": "keybinds.toml",
-          "name": "keybinds.toml",
-          "type": "File",
-          "artifact": {
-            "size": 6403,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/fzzy_config/keybinds.toml",
-            "MD5": "db29914636f6e1455464345f8e91d353",
-            "path": "config/fzzy_config/keybinds.toml"
-          }
-        },
-        {
-          "id": "search.toml",
-          "name": "search.toml",
-          "type": "File",
-          "artifact": {
-            "size": 510,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/fzzy_config/search.toml",
-            "MD5": "df7a521629251dd1e77205589fed6fbc",
-            "path": "config/fzzy_config/search.toml"
-          }
-        },
-        {
           "id": "iris-excluded.json",
           "name": "iris-excluded.json",
           "type": "File",
@@ -434,61 +412,6 @@
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/journeymap-server.json",
             "MD5": "1de3b1bd220fc2e0696e0946001baa66",
             "path": "config/journeymap-server.json"
-          }
-        },
-        {
-          "id": "custom_config.toml",
-          "name": "custom_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 766,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/custom_config.toml",
-            "MD5": "82296ff3a9eeae4467d9c33b824cc821",
-            "path": "config/lootbeams/custom_config.toml"
-          }
-        },
-        {
-          "id": "dynamic_config.toml",
-          "name": "dynamic_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 114,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/dynamic_config.toml",
-            "MD5": "a639d1a14d0e681de79f170a8874f3f5",
-            "path": "config/lootbeams/dynamic_config.toml"
-          }
-        },
-        {
-          "id": "light_config.toml",
-          "name": "light_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 910,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/light_config.toml",
-            "MD5": "784d5459ffc59ca7672c53adba5b4c6e",
-            "path": "config/lootbeams/light_config.toml"
-          }
-        },
-        {
-          "id": "loot_information_config.toml",
-          "name": "loot_information_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 556,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/loot_information_config.toml",
-            "MD5": "214b320bf530c3699acb27059943523c",
-            "path": "config/lootbeams/loot_information_config.toml"
-          }
-        },
-        {
-          "id": "sound_config.toml",
-          "name": "sound_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 208,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/sound_config.toml",
-            "MD5": "b0a5e01ec34a89a6ef691048757cd6da",
-            "path": "config/lootbeams/sound_config.toml"
           }
         },
         {
@@ -1086,28 +1009,6 @@
           }
         },
         {
-          "id": "punchy_config.json",
-          "name": "punchy_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1330,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/punchy/punchy_config.json",
-            "MD5": "5f2fec4a21eec4ed5b3d1c18437ef473",
-            "path": "config/punchy/punchy_config.json"
-          }
-        },
-        {
-          "id": "punchy_tuning.json",
-          "name": "punchy_tuning.json",
-          "type": "File",
-          "artifact": {
-            "size": 26923,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/punchy/punchy_tuning.json",
-            "MD5": "a88980effe2dfeae5d065ffb68ac5d94",
-            "path": "config/punchy/punchy_tuning.json"
-          }
-        },
-        {
           "id": "sodium-fingerprint.json",
           "name": "sodium-fingerprint.json",
           "type": "File",
@@ -1149,28 +1050,6 @@
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/data/fabric_default_resource_packs.json",
             "MD5": "9c70e0b30ff6d3ac8f1f4d0dd7742b20",
             "path": "data/fabric_default_resource_packs.json"
-          }
-        },
-        {
-          "id": "eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006",
-          "name": "eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006",
-          "type": "File",
-          "artifact": {
-            "size": 19083187,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/downloads/d69238f2-b7ce-30b0-8262-17cd9490f29d/eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006",
-            "MD5": "340698f03c58a590b5d30decb4e79fe8",
-            "path": "downloads/d69238f2-b7ce-30b0-8262-17cd9490f29d/eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006"
-          }
-        },
-        {
-          "id": "log.json",
-          "name": "log.json",
-          "type": "File",
-          "artifact": {
-            "size": 598,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/downloads/log.json",
-            "MD5": "995e8aeea92f5522e0d6f1750202f2ef",
-            "path": "downloads/log.json"
           }
         },
         {
