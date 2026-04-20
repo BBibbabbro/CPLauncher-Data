@@ -196,6 +196,16 @@
           }
         },
         {
+          "id": "me.clefal.lootbeams.loaders:lootbeams:3.4.3@jar",
+          "name": "Loot Beams Refork",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 511393,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/Loot%20Beams%20Refork-fabric-1.21.11-3.4.3.jar",
+            "MD5": "385b75a0648b8e47b02300ac57fa70ba"
+          }
+        },
+        {
           "id": "com.terraformersmc:modmenu:17.0.0@jar",
           "name": "Mod Menu",
           "type": "FabricMod",
@@ -203,6 +213,16 @@
             "size": 1115809,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/modmenu-17.0.0.jar",
             "MD5": "c46182d61ea8f99e68f5d86af1b3fdd8"
+          }
+        },
+        {
+          "id": "com.clefal.nirvana_lib.loaders:nirvana_lib:2.1.6@jar",
+          "name": "Nirvana Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1304965,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/Nirvana%20Lib-fabric-1.21.11-2.1.6.jar",
+            "MD5": "2adbeaa3ea98a23772f7e1cbb04e6f6d"
           }
         },
         {
@@ -270,9 +290,9 @@
           "name": "asteorbar.json5",
           "type": "File",
           "artifact": {
-            "size": 14053,
+            "size": 14054,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/asteorbar.json5",
-            "MD5": "d390204beeaf5811a377a5f0d67827d7",
+            "MD5": "192d49e7cd578c8f4235dbd215775f83",
             "path": "config/asteorbar.json5"
           }
         },
@@ -305,7 +325,7 @@
           "artifact": {
             "size": 260,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/fabric/indigo-renderer.properties",
-            "MD5": "796799cfd4b861bf7a837e6df7dc7388",
+            "MD5": "b7bb4a5a88bda23c9374ed6204ed7fa3",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -332,6 +352,28 @@
           }
         },
         {
+          "id": "keybinds.toml",
+          "name": "keybinds.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6403,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/fzzy_config/keybinds.toml",
+            "MD5": "db29914636f6e1455464345f8e91d353",
+            "path": "config/fzzy_config/keybinds.toml"
+          }
+        },
+        {
+          "id": "search.toml",
+          "name": "search.toml",
+          "type": "File",
+          "artifact": {
+            "size": 510,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/fzzy_config/search.toml",
+            "MD5": "df7a521629251dd1e77205589fed6fbc",
+            "path": "config/fzzy_config/search.toml"
+          }
+        },
+        {
           "id": "iris-excluded.json",
           "name": "iris-excluded.json",
           "type": "File",
@@ -347,9 +389,9 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 315,
+            "size": 316,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/iris.properties",
-            "MD5": "68209cf78d5ddc918b494f49631e76ed",
+            "MD5": "65653d5b0c7c738d273f8391d2532cf6",
             "path": "config/iris.properties"
           }
         },
@@ -362,6 +404,61 @@
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/journeymap-server.json",
             "MD5": "1de3b1bd220fc2e0696e0946001baa66",
             "path": "config/journeymap-server.json"
+          }
+        },
+        {
+          "id": "custom_config.toml",
+          "name": "custom_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 766,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/custom_config.toml",
+            "MD5": "82296ff3a9eeae4467d9c33b824cc821",
+            "path": "config/lootbeams/custom_config.toml"
+          }
+        },
+        {
+          "id": "dynamic_config.toml",
+          "name": "dynamic_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 114,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/dynamic_config.toml",
+            "MD5": "a639d1a14d0e681de79f170a8874f3f5",
+            "path": "config/lootbeams/dynamic_config.toml"
+          }
+        },
+        {
+          "id": "light_config.toml",
+          "name": "light_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 910,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/light_config.toml",
+            "MD5": "784d5459ffc59ca7672c53adba5b4c6e",
+            "path": "config/lootbeams/light_config.toml"
+          }
+        },
+        {
+          "id": "loot_information_config.toml",
+          "name": "loot_information_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 556,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/loot_information_config.toml",
+            "MD5": "214b320bf530c3699acb27059943523c",
+            "path": "config/lootbeams/loot_information_config.toml"
+          }
+        },
+        {
+          "id": "sound_config.toml",
+          "name": "sound_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 208,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/lootbeams/sound_config.toml",
+            "MD5": "b0a5e01ec34a89a6ef691048757cd6da",
+            "path": "config/lootbeams/sound_config.toml"
           }
         },
         {
@@ -380,9 +477,9 @@
           "name": "obscure_tooltips-client.toml",
           "type": "File",
           "artifact": {
-            "size": 5482,
+            "size": 5446,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/obscuria/obscure_tooltips-client.toml",
-            "MD5": "f57dfb13bbc376925f1616da211b9676",
+            "MD5": "debca72a4ce496564dcd5fda72159970",
             "path": "config/obscuria/obscure_tooltips-client.toml"
           }
         },
@@ -567,9 +664,9 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1163,
+            "size": 1381,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/plasmovoice/client.toml",
-            "MD5": "787d5d1ce225ce158379a71151cc3085",
+            "MD5": "bfd87a93a78fba4a92dde7eea160954f",
             "path": "config/plasmovoice/client.toml"
           }
         },
@@ -1022,6 +1119,28 @@
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/data/fabric_default_resource_packs.json",
             "MD5": "9c70e0b30ff6d3ac8f1f4d0dd7742b20",
             "path": "data/fabric_default_resource_packs.json"
+          }
+        },
+        {
+          "id": "eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006",
+          "name": "eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006",
+          "type": "File",
+          "artifact": {
+            "size": 19083187,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/downloads/d69238f2-b7ce-30b0-8262-17cd9490f29d/eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006",
+            "MD5": "340698f03c58a590b5d30decb4e79fe8",
+            "path": "downloads/d69238f2-b7ce-30b0-8262-17cd9490f29d/eb6e5d8a4f31a8509321dbe33f9b8d3d53cb5006"
+          }
+        },
+        {
+          "id": "log.json",
+          "name": "log.json",
+          "type": "File",
+          "artifact": {
+            "size": 598,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/downloads/log.json",
+            "MD5": "995e8aeea92f5522e0d6f1750202f2ef",
+            "path": "downloads/log.json"
           }
         },
         {
@@ -6298,9 +6417,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7622,
+            "size": 7706,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/options.txt",
-            "MD5": "deb1964622fcfce4b325fe17d7f2fbc6",
+            "MD5": "7514fe1cfc0a967758063fee4574028b",
             "path": "options.txt"
           }
         },
@@ -6309,9 +6428,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 13243,
+            "size": 13268,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/servers.dat",
-            "MD5": "4d5169d20c14d08a3bebf774d46dcb18",
+            "MD5": "3ce850ca9c8a7b52cf1cc560d8f00cac",
             "path": "servers.dat"
           }
         },
@@ -6320,9 +6439,9 @@
           "name": "servers.dat_old",
           "type": "File",
           "artifact": {
-            "size": 12043,
+            "size": 12068,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/servers.dat_old",
-            "MD5": "4ba9c8fb5bd4f2267d720cbe311f42a8",
+            "MD5": "1b017fb72df09dacd355a2f908b40e47",
             "path": "servers.dat_old"
           }
         },
