@@ -109,7 +109,7 @@
 		// Whether to overwrite vanilla experience bar. If you don't like the mod's experience bar, you can disable this option, progress label won't be affected.
 		"overwriteVanillaExperienceBar": true,
 		// Whether to display experience progress on the side of the experience bar.
-		"displayExperienceProgress": true,
+		"displayExperienceProgress": false,
 		// Whether to display experience level on the experience bar.
 		"displayExperienceLevel": true,
 		// Whether to display health text.

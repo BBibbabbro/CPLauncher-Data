@@ -1,12 +1,24 @@
 debug = false
 disable_crowdin = false
 check_for_updates = true
-key_bindings = []
+
+[activations.4aec07ba-d109-3345-9a0a-92022a116cd0]
+type = "VOICE"
+toggle = false
+
+[[key_bindings]]
+name = "key.plasmovoice.proximity.toggle"
+any_context = false
+category = "hidden"
+
+[[key_bindings.keys]]
+code = 96
+type = "KEYSYM"
 
 [voice]
 disabled = false
-microphone_disabled = false
-activation_threshold = -30.0
+microphone_disabled = true
+activation_threshold = -46.0
 input_device = ""
 output_device = ""
 disable_input_device = false
@@ -42,10 +54,10 @@ adaptive_jitter_buffer = false
 [overlay]
 show_activation_icon = true
 activation_icon_position = "BOTTOM_CENTER"
-show_source_icons = 0
+show_source_icons = 1
 show_static_source_icons = true
 overlay_enabled = true
-overlay_position = "TOP_LEFT"
+overlay_position = "BOTTOM_RIGHT"
 overlay_style = "NAME_SKIN"
 
 [overlay.source_states]

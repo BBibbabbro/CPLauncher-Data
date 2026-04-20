@@ -16,7 +16,7 @@ contentMargin = 2
 #Automatically disabled after being shown once.
 showVibrantTooltipsHint = false
 #List of item IDs that should be ignored by Obscure Tooltips.
-ignoredItems = ["minecraft:appled", "minecraft:apple"]
+ignoredItems = []
 
 [Sounds]
 	#Whether Obscure Tooltips should play sound effects.
@@ -76,7 +76,7 @@ ignoredItems = ["minecraft:appled", "minecraft:apple"]
 		#Whether Obscure Tooltips should display a unique style for uncommon items.
 		uncommonStyleEnabled = true
 		#Color in #AARRGGBB format.
-		uncommonPanelBackgroundTop = "#F0100010"
+		uncommonPanelBackgroundTop = "#60606070"
 		#Color in #AARRGGBB format.
 		uncommonPanelBackgroundBottom = "#F0100010"
 		#Color in #AARRGGBB format.
@@ -90,19 +90,19 @@ ignoredItems = ["minecraft:appled", "minecraft:apple"]
 		#Color in #AARRGGBB format.
 		rarePanelBackgroundTop = "#F0100010"
 		#Color in #AARRGGBB format.
-		rarePanelBackgroundBottom = "#F0100010"
+		rarePanelBackgroundBottom = "#60606070"
 		#Color in #AARRGGBB format.
 		rarePanelBorderTop = "#80BBBBCC"
 		#Color in #AARRGGBB format.
-		rarePanelBorderBottom = "#60606070"
+		rarePanelBorderBottom = "#F0100010"
 
 	[Styles.Epic-Items]
 		#Whether Obscure Tooltips should display a unique style for epic items.
 		epicStyleEnabled = true
 		#Color in #AARRGGBB format.
-		epicPanelBackgroundTop = "#F0100010"
+		epicPanelBackgroundTop = "#60AA5000"
 		#Color in #AARRGGBB format.
-		epicPanelBackgroundBottom = "#F0100010"
+		epicPanelBackgroundBottom = "#60AA5000"
 		#Color in #AARRGGBB format.
 		epicPanelBorderTop = "#80FFBB00"
 		#Color in #AARRGGBB format.
@@ -120,7 +120,7 @@ ignoredItems = ["minecraft:appled", "minecraft:apple"]
 
 	[Styles.Enchanted-Items]
 		#Whether Obscure Tooltips should display a unique style for enchanted items.
-		enchantedStyleEnabled = true
+		enchantedStyleEnabled = false
 		#Color in #AARRGGBB format.
 		enchantedParticleCenter = "#80FF80FF"
 		#Color in #AARRGGBB format.
