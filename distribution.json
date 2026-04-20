@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "5.4.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "CPServer (Minecraft 1.21.11)",
       "description": "CPServer Running Minecraft 1.21.11 (Fabric v0.19.2)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "1.0.0",
+      "version": "5.4.1",
       "address": "churoo.kro.kr",
       "minecraftVersion": "1.21.11",
       "discord": {
