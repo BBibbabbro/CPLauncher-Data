@@ -176,6 +176,16 @@
           }
         },
         {
+          "id": "me.fzzyhmstrs:fzzy_config:0.7.6+1.21.11@jar",
+          "name": "Fzzy Config",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2370785,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/fzzy_config-0.7.6+1.21.11.jar",
+            "MD5": "5fad2ec227066c950a08d4bb73a1923e"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.10.7+mc1.21.11@jar",
           "name": "Iris",
           "type": "FabricMod",
