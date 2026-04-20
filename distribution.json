@@ -11,17 +11,17 @@
       "id": "CPServer-1.21.11",
       "name": "CPServer (Minecraft 1.21.11)",
       "description": "CPServer Running Minecraft 1.21.11 (Fabric v0.19.2)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
       "version": "1.0.0",
-      "address": "churoo.kro.kr:25565",
+      "address": "churoo.kro.kr",
       "minecraftVersion": "1.21.11",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.2",
@@ -6419,7 +6419,6 @@
           "artifact": {
             "size": 7706,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/options.txt",
-            "MD5": "7514fe1cfc0a967758063fee4574028b",
             "path": "options.txt"
           }
         },
@@ -6430,7 +6429,6 @@
           "artifact": {
             "size": 13268,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/servers.dat",
-            "MD5": "3ce850ca9c8a7b52cf1cc560d8f00cac",
             "path": "servers.dat"
           }
         },
@@ -6441,7 +6439,6 @@
           "artifact": {
             "size": 12068,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/servers.dat_old",
-            "MD5": "1b017fb72df09dacd355a2f908b40e47",
             "path": "servers.dat_old"
           }
         },

@@ -4,18 +4,26 @@
     "version": "1.0.0",
     "name": "CPServer (Minecraft 1.21.11)",
     "description": "CPServer Running Minecraft 1.21.11 (Fabric v0.19.2)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "churoo.kro.kr:25565",
+    "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+    "address": "churoo.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "fabric": {
     "version": "0.19.2"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [	{
+		"appliesTo": ["files"],
+		"patterns": [
+		  "options.txt",
+		  "servers.dat",
+		  "servers.dat_old"
+		]
+	}
+  ]
 }
