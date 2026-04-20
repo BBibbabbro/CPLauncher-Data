@@ -13,7 +13,7 @@
       "description": "CPServer Running Minecraft 1.21.11 (Fabric v0.19.2)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "churoo.kro.kr:25565",
       "minecraftVersion": "1.21.11",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
