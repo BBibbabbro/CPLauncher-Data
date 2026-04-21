@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 160307,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/caramelChat-mc1.21.11-fabric-1.2.2.jar",
+            "MD5": "5e5791c9663092f63c1ffbe149f03a44"
+          }
+        },
+        {
           "id": "com.koteinik:chunksfadein:3.0.20-1.21.11@jar",
           "name": "Chunks Fade In",
           "type": "FabricMod",
@@ -143,6 +153,16 @@
             "size": 26571,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/common-networking-fabric-1.0.22-1.21.11.jar",
             "MD5": "10aee3664467c79dd986bf7a44435067"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.10.1@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1585638,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entityculling-fabric-1.10.1-mc1.21.11.jar",
+            "MD5": "f3006c2f641fbe1686547ad997dcf897"
           }
         },
         {
@@ -223,16 +243,6 @@
             "size": 3715377,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/journeymap-fabric-1.21.11-6.0.0-beta.65.jar",
             "MD5": "74f529606497b7ab6c94658a33aed10f"
-          }
-        },
-        {
-          "id": "me.clefal.lootbeams.loaders:lootbeams:3.4.3@jar",
-          "name": "Loot Beams Refork",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 511393,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/Loot%20Beams%20Refork-fabric-1.21.11-3.4.3.jar",
-            "MD5": "385b75a0648b8e47b02300ac57fa70ba"
           }
         },
         {
@@ -397,9 +407,9 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 316,
+            "size": 315,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/iris.properties",
-            "MD5": "65653d5b0c7c738d273f8391d2532cf6",
+            "MD5": "28dd8343a70c8d68548901b42d547adc",
             "path": "config/iris.properties"
           }
         },
