@@ -156,6 +156,46 @@
           }
         },
         {
+          "id": "traben.entity_model_features:entity_model_features:3.1.1@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 528110,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_model_features_1.21.11-fabric-3.1.1.jar",
+            "MD5": "d24dff01a3df679757e557881ef938ad"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:3.1.1@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 528110,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_model_features_1.21.11-fabric-3.1.1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.jar",
+            "MD5": "d24dff01a3df679757e557881ef938ad"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:7.1@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 744971,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_texture_features_1.21.11-fabric-7.1.jar",
+            "MD5": "be1c60695dc31e6c1d6e13fe3fd2dbe5"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:7.1@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 744971,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_texture_features_1.21.11-fabric-7.1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.jar",
+            "MD5": "be1c60695dc31e6c1d6e13fe3fd2dbe5"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.10.1@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
@@ -276,13 +316,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:placeholder-api:2.8.2+1.21.10@jar",
-          "name": "Placeholder API",
+          "id": "com.physics.drop:physics-drop:1.0.0@jar",
+          "name": "Physics Drop",
           "type": "FabricMod",
           "artifact": {
-            "size": 268662,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/placeholder-api-2.8.2+1.21.10.jar",
-            "MD5": "392f27ec00dd71b8b4a9819f9449e856"
+            "size": 25308,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/physics-drop-1.0.0%20(3).jar",
+            "MD5": "769ac98e30cdbc087f0dfc782e306e63"
           }
         },
         {
@@ -293,6 +333,16 @@
             "size": 12197316,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.8.jar",
             "MD5": "aef50d3c0510f46a29fd04d3580dd40b"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.9@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12240297,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.9.jar",
+            "MD5": "e83edeeddb6a9213c142f570b3800830"
           }
         },
         {
@@ -323,6 +373,16 @@
             "size": 1870358,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/sodium-fabric-0.8.7+mc1.21.11.jar",
             "MD5": "be9eef883db31e21e422aed7262df919"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.21.11-1.5.1@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 203479,
+            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+            "MD5": "25f7f6aa1930a9f9520fc17375313266"
           }
         },
         {
