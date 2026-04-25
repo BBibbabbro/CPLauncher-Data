@@ -12,7 +12,7 @@
       "name": "CPServer (Minecraft 1.21.11)",
       "description": "CPServer Running Minecraft 1.21.11 (Fabric v0.19.2)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "1.0.0",
+      "version": "1.0.4",
       "address": "churoo.kro.kr",
       "minecraftVersion": "1.21.11",
       "discord": {
@@ -166,32 +166,12 @@
           }
         },
         {
-          "id": "traben.entity_model_features:entity_model_features:3.1.1@jar",
-          "name": "Entity Model Features",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 528110,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_model_features_1.21.11-fabric-3.1.1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.jar",
-            "MD5": "d24dff01a3df679757e557881ef938ad"
-          }
-        },
-        {
           "id": "traben.entity_texture_features:entity_texture_features:7.1@jar",
           "name": "Entity Texture Features",
           "type": "FabricMod",
           "artifact": {
             "size": 744971,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_texture_features_1.21.11-fabric-7.1.jar",
-            "MD5": "be1c60695dc31e6c1d6e13fe3fd2dbe5"
-          }
-        },
-        {
-          "id": "traben.entity_texture_features:entity_texture_features:7.1@jar",
-          "name": "Entity Texture Features",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 744971,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/entity_texture_features_1.21.11-fabric-7.1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.jar",
             "MD5": "be1c60695dc31e6c1d6e13fe3fd2dbe5"
           }
         },
@@ -313,26 +293,6 @@
             "size": 508681,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/obscure_tooltips-fabric-1.21.11-5.0.0.jar",
             "MD5": "558e8b517fe072fd3dfb545788fc0e6b"
-          }
-        },
-        {
-          "id": "com.physics.drop:physics-drop:1.0.0@jar",
-          "name": "Physics Drop",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 25308,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/physics-drop-1.0.0%20(3).jar",
-            "MD5": "769ac98e30cdbc087f0dfc782e306e63"
-          }
-        },
-        {
-          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12197316,
-            "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.8.jar",
-            "MD5": "aef50d3c0510f46a29fd04d3580dd40b"
           }
         },
         {
@@ -511,9 +471,9 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1381,
+            "size": 1380,
             "url": "https://bbibbabbro.github.io/CPLauncher-Data/servers/CPServer-1.21.11/files/config/plasmovoice/client.toml",
-            "MD5": "bfd87a93a78fba4a92dde7eea160954f",
+            "MD5": "2e22c229b9dd4be7e93577a16c2ce84b",
             "path": "config/plasmovoice/client.toml"
           }
         },

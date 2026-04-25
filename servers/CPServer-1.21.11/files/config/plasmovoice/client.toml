@@ -18,14 +18,14 @@ type = "KEYSYM"
 [voice]
 disabled = false
 microphone_disabled = true
-activation_threshold = -46.0
+activation_threshold = -50.0
 input_device = ""
 output_device = ""
 disable_input_device = false
 use_javax_input = false
-microphone_volume = 1.0
+microphone_volume = 1.5
 noise_suppression = false
-volume = 1.0
+volume = 2.0
 compressor_limiter = true
 sound_occlusion = false
 directional_sources = false
@@ -33,14 +33,14 @@ hrtf = false
 stereo_capture = false
 
 [voice.volumes.proximity]
-volume = 1.0
+volume = 1.8
 
 [advanced]
 visualize_voice_distance = true
 visualize_voice_distance_on_join = false
 compressor_threshold = -10
 limiter_threshold = -6
-directional_sources_angle = 145
+directional_sources_angle = 100
 stereo_sources_to_mono = false
 panning = true
 source_types_overlap = "MUTE_PROXIMITY"
@@ -61,4 +61,4 @@ overlay_position = "BOTTOM_RIGHT"
 overlay_style = "NAME_SKIN"
 
 [overlay.source_states]
-proximity = "OFF"
+proximity = "ON"
